@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>{{ site.name }} | {{ page.title }}</title>
+      <meta name="viewport" content="width=device-width">
+
+      <!-- Custom CSS -->
+      <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" href="/css/foundation.min.css">
+      <link rel="stylesheet" href="/css/main.css">
+
+  </head>
+  <body>
+    <div class="fixed">
+      <nav class="top-bar">
+        <ul class="title-area">
+          <li class="name">
+            <h1><a href="{{ site.home_file }}">{{ site.name }}</a></h1>
+          </li>
+        </ul>
+  
+        <!--
+        <section class="top-bar-section">
+          <ul class="left">
+            {% for page in site.pages %}
+              <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </section>
+        -->
+      </nav>
+    </div>
+
+    <div class="header">
+      <div class="title">Adler Teen Programs</div>
+    </div>
+
+    <div class="site container">
+      {{ content }}
+    </div>
+
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="large-6 columns">
+            <img src="http://placehold.it/150x100" alt="Adler Logo" />
+          </div>
+          <div class="large-6 columns">
+            <p>some other misc content</p>
+  
+            <p>
+              Adler Planetarium<br>
+              1300 S. LakeShore Dr.<br>
+              Chicago, IL 60605
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
