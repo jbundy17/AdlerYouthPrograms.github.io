@@ -2,4 +2,3 @@ name: Adler Planetarium Teens
 markdown: redcarpet
 pygments: true
 home_file: index.html
-baseurl: /teen-landing-site

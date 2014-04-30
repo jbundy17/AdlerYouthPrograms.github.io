@@ -4,7 +4,7 @@ teen-landing-site
 To run locally:
 
 ```
-jekyll serve --watch --baseurl ''
+jekyll serve --watch
 ```
 
-Can view at http://adleryouthprograms.github.io/teen-landing-site
+Can view at http://adleryouthprograms.github.io
