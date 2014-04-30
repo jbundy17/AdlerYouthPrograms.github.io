@@ -3,21 +3,23 @@ layout: default
 title: Home
 ---
 
-[Link to markdown](http://daringfireball.net/projects/markdown/syntax)
-
-Basic template for an Adler teens landing page.
+What's it like to be a teen at the Adler? Find out by exploring some of the projects created by Adler teens on these pages!
 
 <dl class="tabs" data-tab>
-  <dd class="active"><a href="#tab-1">Example Tab 1</a></dd>
-  <dd><a href="#tab-2">Example Tab 2</a></dd>
+  <dd class="active"><a href="#tab-1">Web Making Workshops</a></dd>
+  <dd><a href="#tab-2">ChicagoQuest Externships</a></dd>
   <dd><a href="#tab-3">Example Tab 3</a></dd>
 </dl>
 <div class="tabs-content">
   <div class="content active" id="tab-1">
-    <p>First tab content goes here...</p>
+    <p>During the Youth Civic Innovation and Hacking Initiative, Adler youth partnered with Free Spirit Media and Mikva Challenge to create websites that feature issues important to teens in Chicago.</p>
+    <p>School Culture</p>
+    <p>Healthy Relationships</p>
+    <p>Juvenile Justice</p>
+    <p>Youth Employment</p>
   </div>
   <div class="content" id="tab-2">
-    <p>Second tab content goes here...</p>
+    <p>Eighth graders from ChicagoQuest designed virtual exhibits to get teens excited about visiting the Adler and learning more about space science.</p>
   </div>
   <div class="content" id="tab-3">
     <p>Third tab content goes here...</p>
