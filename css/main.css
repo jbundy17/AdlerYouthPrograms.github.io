@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #BDD9FF;
+  background-color: #FFF;
   font: 13.34px Open Sans, Helvetica, Arial, sans-serif;
   font-size: small;
 }
@@ -116,7 +116,7 @@ a:hover   { color: #00a8ff; }
 .post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
-  color: #FFF;
+  color: #BDD9FF;
 }
 
 .post pre.terminal code {
