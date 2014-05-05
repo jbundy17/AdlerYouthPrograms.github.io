@@ -35,9 +35,9 @@ What's it like to be a teen at the Adler? Find out by exploring some of the proj
 # Get Involved
 We have lots of opportunities for teens to take part in hack days, research projects, and internships. Here's how you can stay up to date with the Adler:
 
-1. [Request to join our Facebook group](https://www.facebook.com/groups/adlerteens)
-2. [Keep up with #adlerteens on Twitter](https://twitter.com/search?f=realtime&q=%23adlerteens&src=hash)
-3. [Check the Adler Planetarium's web site](http://www.adlerplanetarium.org/teen-opportunities/)
+1. Request to join our [Facebook group](https://www.facebook.com/groups/adlerteens)
+2. Keep up with #adlerteens on [Twitter](https://twitter.com/search?f=realtime&q=%23adlerteens&src=hash)
+3. Check out the [Adler Planetarium's web site](http://www.adlerplanetarium.org/teen-opportunities/)
 
 ### Contact Us
-Need to get in touch? Email us at [youthprogams@adlerplanetarium.org](mailto:youthprograms@adlerplanetarium.org). 
+Need to get in touch or want to be on our mailing list? Email us at [youthprogams@adlerplanetarium.org](mailto:youthprograms@adlerplanetarium.org). 
