@@ -9,7 +9,7 @@ Find out by exploring some of our teen projects!
 <dl class="tabs" data-tab>
   <dd class="active"><a href="#tab-1">Civic Hacking</a></dd>
   <dd><a href="#tab-2">Virtual Exhibits</a></dd>
-<!-- <dd><a href="#tab-3">Random Hacks of Kindness Jr.</a></dd> -->
+  <dd><a href="#tab-3"></a></dd> 
 </dl>
 <div class="tabs-content">
   <div class="content active" id="tab-1">
@@ -29,10 +29,10 @@ Find out by exploring some of our teen projects!
     <p><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</a></p>
     <hr>
   </div>
- <!-- <div class="content" id="tab-3">
-    <p>Random Hacks of Kindness Jr. presentations coming soon!</p>
+ <div class="content" id="tab-3">
+    <p>More projects coming soon!</p>
     <hr>
-  </div> -->
+  </div>
 </div>
 
 
