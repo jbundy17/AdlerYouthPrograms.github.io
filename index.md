@@ -6,6 +6,7 @@ title: Home
 What do teens do at the Adler? 
 Find out by exploring some of our teen projects!
 
+<br>
 <dl class="tabs" data-tab>
   <dd class="active"><a href="#tab-1">Civic Hacking</a></dd>
   <dd><a href="#tab-2">Virtual Exhibits</a></dd>
