@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-What's it like to be a teen at the Adler? Find out by exploring some of the projects created by Adler teens on these pages!
+What do teens do at the Adler? 
+Find out by exploring some of our teen projects!
 
 <dl class="tabs" data-tab>
   <dd class="active"><a href="#tab-1">Web Making Workshops</a></dd>
