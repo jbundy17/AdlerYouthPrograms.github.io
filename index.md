@@ -17,6 +17,7 @@ What's it like to be a teen at the Adler? Find out by exploring some of the proj
     <p><a href="http://bit.ly/1quHPPd" target="_blank">Healthy Relationships</a></p>
     <p><a href="http://bit.ly/1km65Bs" target="_blank">Juvenile Justice</a></p>
     <p><a href="http://bit.ly/1lYE5U6" target="_blank">Youth Employment</a></p>
+    <hr>
   </div>
   <div class="content" id="tab-2">
     <p>Eighth graders from <a href="http://www.chicagoquest.org/" target="_blank">ChicagoQuest</a> designed virtual exhibits to get teens excited about space and the Adler:</p>
@@ -25,14 +26,14 @@ What's it like to be a teen at the Adler? Find out by exploring some of the proj
     <p><a href="https://teensatadler.makes.org/thimble/LTEzMjkwNzAwODA=/exoplanets" target="_blank">Exoplanets</a></p>
     <p><a href="http://teensatadler.wix.com/awesomexoplanets" target="_blank">Awesome Exoplanets</a></p>
     <p><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</a></p>
+    <hr>
   </div>
   <div class="content" id="tab-3">
     <p>Random Hacks of Kindness Jr. presentations coming soon!</p>
+    <hr>
   </div>
 </div>
 
-
----
 
 # Get Involved
 We have lots of opportunities for teens to take part in hack days, research projects, and internships. Here's how you can stay up to date with the Adler:
