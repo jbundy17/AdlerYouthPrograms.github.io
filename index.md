@@ -32,6 +32,8 @@ What's it like to be a teen at the Adler? Find out by exploring some of the proj
 </div>
 
 
+---
+
 # Get Involved
 We have lots of opportunities for teens to take part in hack days, research projects, and internships. Here's how you can stay up to date with the Adler:
 
