@@ -13,6 +13,7 @@ Find out by exploring some of our teen projects!
   <dd><a href="#tab-3">Other Work</a></dd> 
 </dl>
 <div class="tabs-content">
+  
   <div class="content active" id="tab-1">
     <p>During the Youth Civic Innovation and Hacking Initiative, Adler youth partnered with Free Spirit Media and Mikva Challenge to create websites that feature issues important to teens in Chicago.</p>
     <p><a href="http://bit.ly/1kNTCcp" target="_blank">School Culture</a></p>
@@ -20,6 +21,7 @@ Find out by exploring some of our teen projects!
     <p><a href="http://bit.ly/1km65Bs" target="_blank">Juvenile Justice</a></p>
     <p><a href="http://bit.ly/1lYE5U6" target="_blank">Youth Employment</a></p>
   </div>
+  
   <div class="content" id="tab-2">
     <p>Eighth graders from <a href="http://www.chicagoquest.org/" target="_blank">ChicagoQuest</a> designed virtual exhibits to get teens excited about space and the Adler:</p>
     <p><a href="http://teensatadler.wix.com/the-sky" target="_blank">The Big Bang Theory</p>
@@ -28,9 +30,11 @@ Find out by exploring some of our teen projects!
     <p><a href="https://teensatadler.makes.org/thimble/LTEzMjkwNzAwODA=/exoplanets" target="_blank">Exoplanets</p>
     <p><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</p>
   </div>
-    <div class="content" id="tab-3">
+  
+  <div class="content" id="tab-3">
     <p>More projects coming soon!</p>
   </div>
+  
   <hr>
 </div>
 
