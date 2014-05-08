@@ -35,13 +35,18 @@ Find out by exploring some of our teen projects!
     <p>Eighth graders from <a href="http://www.chicagoquest.org/" target="_blank">ChicagoQuest</a> designed virtual exhibits to get teens excited about space and the Adler:</p>
     <table>
       <tr>
-        <td><a href="http://teensatadler.wix.com/the-sky" target="_blank">The Big Bang Theory</a></td>
-        <td><a href="http://teensatadler.wix.com/exoplanets" target="_blank">Exoplanets</a></td>
+        <td><a href="http://teensatadler.wix.com/the-sky" target="_blank"> Big Bang Theory Website</a></td>
+        <td><a href="http://teensatadler.wix.com/exoplanets" target="_blank">Traveling to Exoplanets Website</a></td>
+        <td><a href="http://teensatadler.wix.com/awesomexoplanets" target="_blank">Awesome Exoplanets</a></td>
+        <td><a href="https://teensatadler.makes.org/thimble/LTEzMjkwNzAwODA=/exoplanets" target="_blank">Exoplanets Overview</a></td>
+        <td><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</a></td>
       </tr>
       <tr>
-        <td><a href="http://teensatadler.wix.com/awesomexoplanets" target="_blank">Awesome Exoplanets</a></td>
-        <td><a href="https://teensatadler.makes.org/thimble/LTEzMjkwNzAwODA=/exoplanets" target="_blank">Exoplanets</a></td>
-        <td><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</a></td>
+        <td><a href="http://blackholesatadler.tumblr.com/" target="_blank">Black Holes Tumblr</a></td>
+        <td><a href="http://padlet.com/teensatadler/blackholes" target="_blank">Black Holes Padlet</a></td>
+        <td><a href="http://teensatadler.wix.com/unisciencegsm" target="_blank">Exoplanet University Website</a></td>
+        <td><a href="http://teensatadler.wix.com/space-exploration" target="_blank">Space Exploration Website</a></td>
+        <td><a href="http://padlet.com/teensatadler/CQImages" target="_blank">Space Graphics</a></td>
       </tr>
     </table>
   </div>
