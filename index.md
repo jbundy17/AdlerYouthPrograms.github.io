@@ -28,9 +28,6 @@ Find out by exploring some of our teen projects!
     <p><a href="https://teensatadler.makes.org/thimble/LTEzMjkwNzAwODA=/exoplanets" target="_blank">Exoplanets</p>
     <p><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</p>
   </div>
-  <div class="content" id="tab-3">
-    <p>More projects coming soon!</p>
-  </div>
   <hr>
 </div>
 
