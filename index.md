@@ -27,13 +27,13 @@ Find out by exploring some of our teen projects!
     <table>
       <tr>
         <td><a href="http://teensatadler.wix.com/the-sky" target="_blank"> Big Bang Website</a></td>
-        <td><a href="http://teensatadler.wix.com/exoplanets" target="_blank">Traveling to Exoplanets</a></td>
+        <td align="left"><a href="http://teensatadler.wix.com/exoplanets" target="_blank">Traveling to Exoplanets</a></td>
         <td><a href="http://teensatadler.wix.com/awesomexoplanets" target="_blank">Awesome Exoplanets</a></td>
         <td><a href="https://teensatadler.makes.org/thimble/LTEzMjkwNzAwODA=/exoplanets" target="_blank">Exoplanets Overview</a></td>
         <td><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</a></td>
       </tr>
       <tr>
-        <td><a href="http://blackholesatadler.tumblr.com/" target="_blank">Black Holes Tumblr</a></td>
+        <td align="left"><a href="http://blackholesatadler.tumblr.com/" target="_blank">Black Holes Tumblr</a></td>
         <td><a href="http://padlet.com/teensatadler/blackholes" target="_blank">Black Holes Padlet</a></td>
         <td><a href="http://teensatadler.wix.com/unisciencegsm" target="_blank">Exoplanet University</a></td>
         <td><a href="http://teensatadler.wix.com/space-exploration" target="_blank">Space Exploration</a></td>
