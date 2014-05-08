@@ -24,11 +24,11 @@ Find out by exploring some of our teen projects!
   
   <div class="content" id="tab-2">
     <p>Eighth graders from <a href="http://www.chicagoquest.org/" target="_blank">ChicagoQuest</a> designed virtual exhibits to get teens excited about space and the Adler:</p>
-    <p><a href="http://teensatadler.wix.com/the-sky" target="_blank">The Big Bang Theory</p>
-    <p><a href="http://teensatadler.wix.com/exoplanets" target="_blank">Exoplanets</p>
-    <p><a href="http://teensatadler.wix.com/awesomexoplanets" target="_blank">Awesome Exoplanets</p>
-    <p><a href="https://teensatadler.makes.org/thimble/LTEzMjkwNzAwODA=/exoplanets" target="_blank">Exoplanets</p>
-    <p><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</p>
+    <p><a href="http://teensatadler.wix.com/the-sky" target="_blank">The Big Bang Theory</a></p>
+    <p><a href="http://teensatadler.wix.com/exoplanets" target="_blank">Exoplanets</a></p>
+    <p><a href="http://teensatadler.wix.com/awesomexoplanets" target="_blank">Awesome Exoplanets</a></p>
+    <p><a href="https://teensatadler.makes.org/thimble/LTEzMjkwNzAwODA=/exoplanets" target="_blank">Exoplanets</a></p>
+    <p><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</a></p>
   </div>
   
   <div class="content" id="tab-3">
