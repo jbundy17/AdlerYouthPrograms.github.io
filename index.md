@@ -31,7 +31,7 @@ Find out by exploring some of our teen projects!
     <br>
     <table>
       <tr>
-        <td align="left">Website</td>
+        <td align="left">Website/Organization</td>
         <td align="left">Challenge(s)</td>
       </tr>  
       <tr>
@@ -42,6 +42,9 @@ Find out by exploring some of our teen projects!
         <td align="left"><a href="http://bit.ly/iridescent2015" target="_blank">Iridescent</a></td>
         <td align="left">Attracting and retaining users on <a href="http://curiousitymachine.org" target=_blank">Curiousity Machine</a></td>
       </tr>
+      <tr>
+        <td align="left"><a href="http://bit.ly/yogatones2015" target="_blank">Yogatones</a></td>
+        <td align="left">Emphasizing the importance of yoga and balance</td>
     </table>
   </div>
   
