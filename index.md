@@ -27,15 +27,12 @@ Find out by exploring some of our teen projects!
   </div>
   
   <div class="content" id="tab-2">
-    <p>Teens from all over the Chicagoland area came together and learned the basics of HTML and CSS. Then they put their skills to </p>
+    <p>Teens from all over the Chicagoland area came together and learned the basics of HTML and CSS. Then they put their skills to the test when they made websites for the <a href="http://bit.ly/1GDZyNE" target="_blank"> Random Hacks of Kindness</a> event. Find their sites here:</p>
     <br>
     <table>
       <tr>
-        <td align="left"><a href="http://teensatadler.wix.com/the-sky" target="_blank"> Big Bang Website</a></td>
-        <td align="left"><a href="http://teensatadler.wix.com/exoplanets" target="_blank">Traveling to Exoplanets</a></td>
-        <td align="left"><a href="http://teensatadler.wix.com/awesomexoplanets" target="_blank">Awesome Exoplanets</a></td>
-        <td align="left"><a href="https://teensatadler.makes.org/thimble/LTEzMjkwNzAwODA=/exoplanets" target="_blank">Exoplanets Overview</a></td>
-        <td><a href="https://teensatadler.makes.org/thimble/LTEzNzk0MDE3Mjg=/space-viz-by-team-jupiter-descendants" target="_blank">Space Visualization</a></td>
+        <td align="left"><a href="http://bit.ly/RMH2015" target="_blank">Ronald McDonald House</a></td>
+        <td align="left">Challenges: Organization and Supplies</td>
       </tr>
       <tr>
         <td align="left"><a href="http://blackholesatadler.tumblr.com/" target="_blank">Black Holes Tumblr</a></td>
