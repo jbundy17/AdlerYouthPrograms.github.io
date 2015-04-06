@@ -15,11 +15,11 @@ Find out by exploring some of our teen projects!
 <div class="tabs-content">
   
   <div class="content active" id="tab-1">
-    <h5>Partnering with other organizations, the Adler brought youth together for multiple hacking events.</h5>
+    <h6>Partnering with other organizations, the Adler brought youth together for multiple hacking events.</h6>
     <p><a href="http://bit.ly/1GDZyNE" target="_blank">Random Hacks of Kindness 2015</a> - Middle school students partnered with charities including Ronald McDonald House and Yogatones to hack for the issues their organizations faced.</p>
     <p><a href="http://bit.ly/1GYYap4" target="_blank">HackLabs Hack-a-thon 2015</a> - The Adler and Shedd brought teens together for hacking projects inclduing camera hacking and mudpuppy traps.</p>
     <p>
-    <h5>During the Youth Civic Innovation and Hacking Initiative, Adler youth partnered with Free Spirit Media and Mikva Challenge to create websites that feature issues important to teens in Chicago.</h5>
+    <h6>During the Youth Civic Innovation and Hacking Initiative, Adler youth partnered with Free Spirit Media and Mikva Challenge to create websites that feature issues important to teens in Chicago.</h6>
     <p><a href="http://bit.ly/1kNTCcp" target="_blank">School Culture</a></p>
     <p><a href="http://bit.ly/1quHPPd" target="_blank">Healthy Relationships</a></p>
     <p><a href="http://bit.ly/1km65Bs" target="_blank">Juvenile Justice</a></p>
