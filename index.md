@@ -16,7 +16,7 @@ Find out by exploring some of our teen projects!
   
   <div class="content active" id="tab-1">
     <p>Partnering with other organizations, the Adler brought youth together for multiple hacking events.</p>
-    <p><a href="http://bit.ly/1GDZyNE" target="_blank">Random Hacks of Kindness 2015 </a>- Middle school students partnered with charities including Ronald McDonald House and Yogatones.</p>
+    <p><a href="http://bit.ly/1GDZyNE" target="_blank">Random Hacks of Kindness 2015 </a></p> <p>- Middle school students partnered with charities including Ronald McDonald House and Yogatones.</p>
     <p>During the Youth Civic Innovation and Hacking Initiative, Adler youth partnered with Free Spirit Media and Mikva Challenge to create websites that feature issues important to teens in Chicago.</p>
     <p><a href="http://bit.ly/1kNTCcp" target="_blank">School Culture</a></p>
     <p><a href="http://bit.ly/1quHPPd" target="_blank">Healthy Relationships</a></p>
