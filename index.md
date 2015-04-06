@@ -27,19 +27,20 @@ Find out by exploring some of our teen projects!
   </div>
   
   <div class="content" id="tab-2">
-    <p>Teens from all over the Chicagoland area came together and learned the basics of HTML and CSS. Then they put their skills to the test when they made websites for the <a href="http://bit.ly/1GDZyNE" target="_blank"> Random Hacks of Kindness</a> event. Find their sites here:</p>
+    <h5>Teens from all over the Chicagoland area came together and learned the basics of HTML and CSS. Then they put their skills to the test when they made websites for the <a href="http://bit.ly/1GDZyNE" target="_blank"> Random Hacks of Kindness</a> event. Find their sites here:</h5>
     <br>
     <table>
       <tr>
+        <td align="left">Website</td>
+        <td align="left">Challenge(s)</td>
+      </tr>  
+      <tr>
         <td align="left"><a href="http://bit.ly/RMH2015" target="_blank">Ronald McDonald House</a></td>
-        <td align="left">Challenges: Organization and Supplies</td>
+        <td align="left">Becoming organized and receiving supplies</td>
       </tr>
       <tr>
-        <td align="left"><a href="http://blackholesatadler.tumblr.com/" target="_blank">Black Holes Tumblr</a></td>
-        <td align="left"><a href="http://padlet.com/teensatadler/blackholes" target="_blank">Black Holes Padlet</a></td>
-        <td align="left"><a href="http://teensatadler.wix.com/unisciencegsm" target="_blank">Exoplanet University</a></td>
-        <td align="left"><a href="http://teensatadler.wix.com/space-exploration" target="_blank">Space Exploration</a></td>
-        <td align="left"><a href="http://padlet.com/teensatadler/CQImages" target="_blank">Space Graphics</a></td>
+        <td align="left"><a href="http://bit.ly/iridescent2015" target="_blank">Iridescent</a></td>
+        <td align="left">Attracting and retaining users on <a href="http://curiousitymachine.org" target=_blank">Curiousity Machine</a></td>
       </tr>
     </table>
   </div>
