@@ -63,7 +63,7 @@ Find out by exploring some of our teen projects!
   <div class="content" id="tab-3">
     <h6>Various Adler teen programs work on creating blogs on various science topics. Find some of them here:</h6>
     <a href="http://galacticphotos.tumblr.com" target="_blank">Galactic Photos</a>
-    <a href="http://adlerteens.tumblr.com" target="_blank">Adler Teens</a>
+    <a href="http://adlerteens.tumblr.com" target="_blank">Adler Teens</a> 
   </div>
   
   <hr>
