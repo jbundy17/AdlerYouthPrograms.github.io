@@ -45,6 +45,19 @@ Find out by exploring some of our teen projects!
       <tr>
         <td align="left"><a href="http://bit.ly/yogatones2015" target="_blank">Yogatones</a></td>
         <td align="left">Emphasizing the importance of yoga and balance</td>
+      </tr>
+      <tr>
+        <td align="left"><a href="http://bit.ly/honeycomb2015" target="_blank">Honeycomb</a></td>
+        <td align="left">Encouraging families to volunteer together</td>
+      </tr>
+      <tr>
+        <td align="left"><a href="http://bit.ly/coolclassics2015" target="_blank">Cool Classics!</a></td>
+        <td align="left">Reaching a larger population of people</td>
+      </tr>  
+      <tr>
+        <td align="left"><a href="http://bit.ly/sparkprogram2015" target="_blank">Spark</a></td>
+        <td align="left">Keeping in touch with alumni and securing mentors</td>
+      </tr>
     </table>
   </div>
   
