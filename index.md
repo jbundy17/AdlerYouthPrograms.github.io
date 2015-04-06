@@ -15,7 +15,7 @@ Find out by exploring some of our teen projects!
 <div class="tabs-content">
   
   <div class="content active" id="tab-1">
-    <p>Partnering with other organizations, the Adler brought youth together for multiple hacking events.</p>
+    <h1>Partnering with other organizations, the Adler brought youth together for multiple hacking events.</h1>
     <p><a href="http://bit.ly/1GDZyNE" target="_blank">Random Hacks of Kindness 2015</a> - Middle school students partnered with charities including Ronald McDonald House and Yogatones to hack for the issues their organizations faced.</p>
     <p><a href="http://bit.ly/1GYYap4" target="_blank">HackLabs Hack-a-thon 2015</a> - The Adler and Shedd brought teens together for hacking projects inclduing camera hacking and mudpuppy traps.</p>
     <p>
