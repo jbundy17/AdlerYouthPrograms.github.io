@@ -27,7 +27,7 @@ Find out by exploring some of our teen projects!
   </div>
   
   <div class="content" id="tab-2">
-    <h4>Teens from all over the Chicagoland area came together and learned the basics of HTML and CSS. Then they put their skills to the test when they made websites for the <a href="http://bit.ly/1GDZyNE" target="_blank"> Random Hacks of Kindness</a> event. Find their sites here:</h4>
+    <p>Teens from all over the Chicagoland area came together and learned the basics of HTML and CSS. Then they put their skills to the test when they made websites for the <a href="http://bit.ly/1GDZyNE" target="_blank"> Random Hacks of Kindness</a> event. Find their sites here:</p>
     <table>
       <tr>
         <td align="left">Website/Organization</td>
