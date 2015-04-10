@@ -76,7 +76,8 @@ We have lots of opportunities for teens to take part in hack days, research proj
 
 1. Request to join our [Facebook group](https://www.facebook.com/groups/adlerteens)
 2. Keep up with #adlerteens on [Twitter](https://twitter.com/search?f=realtime&q=%23adlerteens&src=hash)
-3. Check out the [Adler Planetarium's web site](http://www.adlerplanetarium.org/teen-opportunities/)
+3. Follow us on [Instagram](https://instagram.com/adlerteens) @adlerteens
+4. Check out the [Adler Planetarium's web site](http://www.adlerplanetarium.org/teen-opportunities/)
 
 ### Contact Us
 Need to get in touch or want to be on our mailing list? Email us at [youthprogams@adlerplanetarium.org](mailto:youthprograms@adlerplanetarium.org). 
