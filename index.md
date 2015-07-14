@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-What do teens do at the Adler? 
+What do teens do at the Adler Planetarium? 
 Find out by exploring some of our teen projects!
 
 <br>
